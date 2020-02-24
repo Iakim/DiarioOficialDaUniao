@@ -7,4 +7,4 @@ CentOS/RHEL/FEDORA:
       
 Debian
 
-      apt-get install tofrodos
+      apt-get install wget tofrodos
