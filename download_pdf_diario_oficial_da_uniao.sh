@@ -1,7 +1,7 @@
 #!/bin/bash
 ###################################################################################
 ## Nginx-Log-Csv 						   		 ##
-## Script bash for create a graph from csv of processing of logs nginx/apache	 ##
+## Script bash for download of PDF in DOU					 ##
 ## Author: https://github.com/Iakim 				    		 ##
 ## Simplicity is the ultimate degree of sophistication		    		 ##
 ###################################################################################
