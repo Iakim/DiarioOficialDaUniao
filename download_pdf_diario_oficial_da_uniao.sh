@@ -1,6 +1,6 @@
 #!/bin/bash
 ###################################################################################
-## Nginx-Log-Csv 						   		 ##
+## Donwload PDF of DOU						   		 ##
 ## Script bash for download of PDF in DOU					 ##
 ## Author: https://github.com/Iakim 				    		 ##
 ## Simplicity is the ultimate degree of sophistication		    		 ##
