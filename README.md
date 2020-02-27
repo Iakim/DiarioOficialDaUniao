@@ -3,8 +3,8 @@
 
 CentOS/RHEL/FEDORA:
 
-      yum install wget tofrodos unix2dos dos2unix -y
+      yum install wget tofrodos dos2unix -y
       
 Debian
 
-      apt-get install wget tofrodos unix2dos dos2unix
+      apt-get install wget tofrodos dos2unix
